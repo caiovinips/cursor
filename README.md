@@ -1,2 +1,1 @@
-# cursor
-cursorai
+# Meu projeto
